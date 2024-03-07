@@ -5,7 +5,7 @@ I'm Daniel, a web developer based in Estonia.
   </br>
   Coding nice UIs and problem solving is what I love. I started self learning in early 2023 and it now has become one of the things I enjoy doing the most!
    </br>
-  I mostly do frontend work, but in the future I wish to explore everything from design to backend.</br>
+  I mostly do frontend work, but I love exploring everything from design to backend.</br>
   </br>
   Learning is fun, so might as well do it as much as possible!
   </br>
